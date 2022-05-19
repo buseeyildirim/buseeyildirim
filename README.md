@@ -1,4 +1,4 @@
-# Hi there, I'm Buse 👋 
+# Hi there, It's Buse 👋 
 
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Data Science.
