@@ -1,7 +1,5 @@
 # Hi there, I'm Buse 👋 
 
-## I'm a Student and Full-Time Traveler!!
-
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about Data Science.
 - ⚡ Fun fact: I'm obsessed with Borderlands and Red Dead Redemption...
